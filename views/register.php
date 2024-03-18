@@ -51,6 +51,7 @@
           <!-- The path of the login page file is not stated because "indext.php" file is always prioritized -->
           <p class="text-center mt-3 small">Registered already? <a href="../views">Login</a></p>
           <p class="text-center mt-3 small">Kredo @ 2024</p>
+          <p class="">This is a test</p>
         </div>
       </div>
     </div>
